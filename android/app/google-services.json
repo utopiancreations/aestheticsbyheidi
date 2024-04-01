@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223137784212",
+    "project_id": "hair-by-heidi-ztq026",
+    "storage_bucket": "hair-by-heidi-ztq026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223137784212:android:1c9eac8180229aa4c92f81",
+        "android_client_info": {
+          "package_name": "com.utopiancreations.aestheticsbyheidi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZLUbxviUaW-W2SAc7gpG_xd4kYF2TxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
